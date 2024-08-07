@@ -24,7 +24,7 @@ This project has been developed using tecnologies:
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.5/reference/htmlsingle/#web.reactive)
 
-## 💻 Projeto
+## 💻 Project
 
 This project was create to demonstrate to build a API that returns chat AI informations by ChatGPT, develop by Java Spring Boot.
 

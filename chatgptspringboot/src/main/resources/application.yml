@@ -6,4 +6,5 @@ spring:
 openai:
   model: gpt-3.5-turbo
   api:
-    key: <colocar aqui> # Informar a chave secreta fornecida em: https://platform.openai.com/api-keys
+    key: <coloque a chave aqui>
+    # Informar a chave secreta fornecida em: https://platform.openai.com/api-keys
