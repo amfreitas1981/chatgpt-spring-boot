@@ -31,6 +31,7 @@ public class MyController {
                 .builder()
                 .messages(messages)
                 .model(model)
+                .maxTokens(100)
                 .temperature(0.6)
                 .n(1)
                 .build();
