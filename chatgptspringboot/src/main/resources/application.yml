@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: chatgptspringboot
+
+# Chaves utilizadas para configuração do ChatGPT:
+openai:
+  model: gpt-3.5-turbo
+  api:
+    key: <colocar aqui> # Informar a chave secreta fornecida em: https://platform.openai.com/api-keys
